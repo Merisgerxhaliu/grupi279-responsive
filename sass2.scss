@@ -1,0 +1,15 @@
+$myColor:rgb(22,214,214);
+
+
+
+h1{
+    $myColor:rgb(143,201,7)
+}
+
+p{
+    color: $myColor;
+}
+
+h2{
+    color: $myColor;
+}

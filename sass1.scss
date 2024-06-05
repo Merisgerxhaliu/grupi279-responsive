@@ -1,0 +1,14 @@
+$mycolor:rgb(7,7,51);
+$myFontSize:18px;
+$myWidth:600px;
+$ekaltert:blue;
+$ekuqe:red;
+
+body{
+    font-size: $myFontSize; //18px
+    color: $ekaltert;
+}
+
+#container{
+    width: $myWidth;
+}
