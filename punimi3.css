@@ -1,0 +1,12 @@
+.divi1{
+    background-color: aqua;
+    text-align: center;
+}
+.divi2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 3px;
+    line-height: 100px;
+display: inline-block;
+}

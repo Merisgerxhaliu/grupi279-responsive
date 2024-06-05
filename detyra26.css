@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.box1{
+    background-color: pink;
+}
+
+.box2{
+    background-color: rgb(112, 112, 248);
+}
+
+
+.box3{
+    background-color: wheat;
+}
+
+
+.box4{
+    background-color: orange;
+}
+
+
+.box5{
+    background-color: rgb(243, 129, 243);
+}
+
+
+.box6{
+    background-color: rgb(103, 248, 103);
+}

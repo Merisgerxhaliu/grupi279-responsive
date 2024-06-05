@@ -1,0 +1,16 @@
+nav{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.navlinks{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+.navlinks li{
+    margin-right: 300px ;
+}
